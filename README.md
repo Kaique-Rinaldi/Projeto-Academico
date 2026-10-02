@@ -39,6 +39,11 @@ src/
 ├── Cobra.java
 ├── Jogo.java
 └── Ponto.java
+
+App.java: Responsável pela execução principal do programa e pela entrada de dados do usuário.
+Jogo.java: Responsável pelas regras gerais do jogo, tabuleiro, comida, pontuação e atualização da lógica.
+Cobra.java: Responsável pelo corpo da cobra, movimentação, crescimento e verificação de colisões.
+Ponto.java: Representa uma posição no tabuleiro através das coordenadas x e y.
 ├── Cobra.java
 ├── Jogo.java
-└── Ponto.java
+└── Ponto.ja
